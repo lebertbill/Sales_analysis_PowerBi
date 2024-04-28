@@ -14,4 +14,4 @@ AtliQ Hardware, a company specializing in computer hardware and peripherals, ser
 6. Incorporated feedback from stakeholders post-initial report review, refining the report accordingly.
 
 ## Dashboard
-<img src="https://github.com/lebertbill/Sales_analysis_PowerBi/edit/main/images/Sales.JPG" width="550" class="center">
+<img src="https://github.com/lebertbill/Sales_analysis_PowerBi/blob/main/images/Sales.JPG" width="550" class="center">
